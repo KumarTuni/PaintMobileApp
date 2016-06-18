@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<s:ViewNavigatorApplication xmlns:fx="http://ns.adobe.com/mxml/2009" xmlns:s="library://ns.adobe.com/flex/spark"
+        firstView="views.PaintHomeView">
+    <s:navigationContent>
+        <s:Button label="My Mobile Paint" click="navigator.popToFirstView()" color="0x7fffd4"/>
+    </s:navigationContent>
+</s:ViewNavigatorApplication>
